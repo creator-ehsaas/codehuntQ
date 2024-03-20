@@ -1,1 +1,21 @@
-Hie
+The Museum Caper
+Professor Amelia Parsons, a renowned archaeologist, stood bewildered in the ransacked Egyptian exhibit at the Grand City Museum. Her prized artifact, the golden scarab of Pharaoh Atemhotep, was missing! Determined to find it, she enlisted the help of her brilliant niece, Maya, known for her knack for puzzles.
+
+As they sifted through the broken display case, Maya spotted a cryptic note tucked beneath a shattered shard. It appeared to be a shopping list from a local antique store, but something felt off.
+
+"This must be the thief's clue, Aunt Amelia," Maya declared. "Can you help me decipher it?"
+
+The Encoded Shopping List
+
+Vintage Canopic Jars (Set of 2) -  5 19 14 4
+Hieroglyphic Papyrus Fragment -  15 21 1 19
+Embalming Tools (Replica) -  19 5 14 14
+Scarab Beetle Cufflinks -  9 3 1 18
+Pharaoh's Headdress (Replica) -  16 15 1 5
+Shabti Statues (Pair) -  19 1 14 4 
+
+**Can you crack the code and help Maya and Professor Parsons locate the stolen scarab?**
+
+**This cipher uses a simple addition rule. Each number represents the original letter's position in the alphabet (A=1, B=2, etc.). To decode, add the two numbers together (don't go past 26) and find the corresponding letter.**
+
+For example, the first item "Vintage Canopic Jars" has the numbers 5 and 19. Add them together (5 + 19 = 24) and find the letter corresponding to position 24 in the alphabet, which is "X."
