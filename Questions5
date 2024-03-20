@@ -14,8 +14,5 @@ Scarab Beetle Cufflinks -  9 3 1 18
 Pharaoh's Headdress (Replica) -  16 15 1 5
 Shabti Statues (Pair) -  19 1 14 4 
 
-**Can you crack the code and help Maya and Professor Parsons locate the stolen scarab?**
+**Professor Amelia Parsons remembered a inscription on the back of the stolen scarab mentioning the Nile River.**
 
-**This cipher uses a simple addition rule. Each number represents the original letter's position in the alphabet (A=1, B=2, etc.). To decode, add the two numbers together (don't go past 26) and find the corresponding letter.**
-
-For example, the first item "Vintage Canopic Jars" has the numbers 5 and 19. Add them together (5 + 19 = 24) and find the letter corresponding to position 24 in the alphabet, which is "X."
